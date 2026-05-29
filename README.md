@@ -13,6 +13,8 @@ This repository contains Python projects that I built while learning:
 
 The goal of this repository is to improve my programming skills and build a strong portfolio for internships, freelancing, and future AI/Data Science opportunities.
 
+The repository will continuously grow as I create more projects and explore new technologies.
+
 ---
 
 # 📂 Projects Included
